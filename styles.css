@@ -48,6 +48,10 @@ body {
     animation: movedown 4s infinite;
 }
 
+p {
+    text-shadow: 0 0 16px rgb(230, 158, 158);
+}
+
 img {
     width: 100px;
     height: 100px;
@@ -157,6 +161,10 @@ img {
         font-size: 20px;
         font-weight: 700;
         animation: movedown 4s infinite;
+    }
+    
+    p {
+        text-shadow: 0 0 16px rgb(230, 158, 158);
     }
     img {
         width: 40px;
